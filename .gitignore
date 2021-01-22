@@ -1,0 +1,5 @@
+build/
+dist/
+prettydiff.egg-info/
+.pyc
+**/__pycache__
